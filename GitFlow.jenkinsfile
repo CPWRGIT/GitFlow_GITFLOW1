@@ -2,7 +2,7 @@
 
 String demoEnvironment      = 'CWC2'
 String hostCredentialsId    = 'PFHMKS0'                   /* Change to Jenkins credentials ID for Host userid/password            */
-String cesCredentialsId     = 'CWEZXXX-CES'                    /* Change to Jenkins credentials ID for CES token                       */
+String cesCredentialsId     = 'PFHMKS0-CES'                    /* Change to Jenkins credentials ID for CES token                       */
 String gitRepoUrl           = 'https://github.com/CPWRGIT/GitFlow_GITFLOW1.git'                        /* Change "<repo>" to user specific repository name                     */
 String gitCredentialsId     = 'ec3e192a-3e5f-4c5f-bb40-129b63ce6c23'           /* Change to Jenkins credentials ID for GitHub personal access token    */
 String ccRepo               = 'PFHMKS0.XPCOVER.REPOSIT'                  /* Change to user specific code coverage repository                     */
