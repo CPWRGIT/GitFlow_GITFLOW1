@@ -5,6 +5,7 @@ ispwApplication:
   runtimeConfig: ic2ga
   stream: GITFLOW
   application: GITFLOW1
+  assignmentPrefix: GFL1
   sandbox: Y
   pathMappings:
   - path: "**/Sources/Progs"
