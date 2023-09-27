@@ -12,7 +12,7 @@
       *  BASED ON MONTHLY SALES RATES                                  *
       *                                                                *
       *                                                                *
-      * DEMO 12.09.2023                                                *
+      * DEMO 27.09.2023                                                *
       ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
