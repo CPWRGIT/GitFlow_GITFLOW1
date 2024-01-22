@@ -12,7 +12,7 @@
       *  BASED ON MONTHLY SALES RATES                                  *
       *                                                                *
       *                                                                *
-      * DEMO 22.01.2024                                                *
+      * DEMO 22.01.2024 12:00                                          *
       ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
