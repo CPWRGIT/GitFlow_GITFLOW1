@@ -5,7 +5,7 @@
       ******      C O M P U W A R E   C O R P O R A T I O N       ******
       *                                                                *
       *  THIS CALLED PROGRAM IS THE COBOL DEMO PROGRAM USED FOR        *
-      *  XPEDITER/TSO TRAINING SESSIONS.   MKS-051624 16:01            *
+      *  XPEDITER/TSO TRAINING SESSIONS.   MKS-071823                  *
       *  XPEDITER/TSO TRAINING SESSIONS.   RALPH-060723 - 02           *
       *                                                                *
       *  CALCULATES COMMISIONS FOR SALES AND MANAGEMENT EMPLOYEE       *
@@ -71,7 +71,7 @@
       ***
        PROCEDURE DIVISION USING EMP-TYPE, SALES-AMOUNT, COMM-TOTAL.
        0000-MAINLINE.
-
+ 
            IF EMP-TYPE EQUAL 'S'
                PERFORM 1000-PROCESS-SALES
            ELSE
