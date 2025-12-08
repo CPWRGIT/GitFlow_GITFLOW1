@@ -5,14 +5,14 @@
       ******      C O M P U W A R E   C O R P O R A T I O N       ******
       *                                                                *
       *  THIS CALLED PROGRAM IS THE COBOL DEMO PROGRAM USED FOR        *
-      *  XPEDITER/TSO TRAINING SESSIONS.   MKS-051724 16:04            *
+      *  XPEDITER/TSO TRAINING SESSIONS.   MKS-120825 16:01            *
       *  XPEDITER/TSO TRAINING SESSIONS.   RALPH-060723 - 02           *
       *                                                                *
       *  CALCULATES COMMISIONS FOR SALES AND MANAGEMENT EMPLOYEE       *
       *  BASED ON MONTHLY SALES RATES                                  *
       *                                                                *
       *                                                                *
-      * DEMO 22.01.2024 12:00                                          *
+      * DEMO 11.06.2024 12:01                                          *
       ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.

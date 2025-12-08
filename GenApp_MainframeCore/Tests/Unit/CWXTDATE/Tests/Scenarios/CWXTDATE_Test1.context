@@ -7,6 +7,7 @@
     <Parameter key="unittest.loadlibraries">
       <Value>CEE.SCEERUN</Value>
       <Value>${load_lib}</Value>
+      <Value>SALESSUP.GITFLOW1.PROD.LOAD</Value>
     </Parameter>
   </ExtensionData>
   <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CWXTDATE" caseInsensitiveCompare="false" path="CWXTDATE_Test1.context">
