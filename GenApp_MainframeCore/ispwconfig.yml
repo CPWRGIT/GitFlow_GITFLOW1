@@ -1,10 +1,14 @@
 !!com.compuware.ispw.wzzms.models.IspwRoot
 ispwApplication:
+  encryptionProtocol: None
   host: cwc2.bmc.com
+  hostCodePage: '1047'
   port: 16196
+  readWriteTimeout: 90
   runtimeConfig: ic2ga
   stream: GITFLOW
   application: GITFLOW1
+  subAppl: GITFLOW1
   assignmentPrefix: GFL1
   sandbox: Y
   pathMappings:
@@ -18,10 +22,8 @@ ispwApplication:
     types:
     - fileExtension: cbl
       ispwType: COB
-      progType: 'No'
     - fileExtension: pli
       ispwType: PLI
-      progType: 'No'
   - path: "**/Sources/Jobs"
     types:
     - fileExtension: jcl
